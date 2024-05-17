@@ -71,7 +71,7 @@ The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
 
 ***************
-Web Login Simulation \n
+Web Login Simulation
 ***************
 
 `Login App <https://proyek-pengembangan-iot.000webhostapp.com/login-app/>`_
